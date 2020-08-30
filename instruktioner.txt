@@ -1,0 +1,9 @@
+
+go to the folder that contains the docker-compose.yml file  
+
+This step takes a long while. run the command: docker-compose up
+
+When the last command calms down and starts the contaiers open a browser and http://localhost:3000/
+
+to stop the docker containers run: docker-compose down
+
